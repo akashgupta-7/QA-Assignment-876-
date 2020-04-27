@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="sample.test.DataDrivenTest"/>
+      <class name="sample.test.BasicAuthentication"/>
+      <class name="sample.test.TestRestRequestSpecification"/>
+      <class name="sample.test.validateXSDSchema"/>
+      <class name="sample.test.TestSoapCall"/>
+      <class name="sample.test.ExtractAndUseDataForVerify"/>
+      <class name="sample.test.TestRest"/>
+      <class name="sample.test.validateJSONSchema"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
