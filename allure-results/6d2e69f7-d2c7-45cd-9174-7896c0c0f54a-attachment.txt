@@ -1,0 +1,6 @@
+{
+    "action": "chickens-feed",
+    "success": true,
+    "message": "Your chickens are now full and happy",
+    "data": null
+}

@@ -1,0 +1,626 @@
+{
+    "upcomingMovieData": [
+        {
+            "provider_moviename": "K.G.F. Chapter 2",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/KGF-2-App-poster-608x800-a-ca543ffb-3083-4a4f-834a-240085bf3483.jpg",
+            "movieTitle": "K.G.F. Chapter 2",
+            "movie_name": "K.G.F. Chapter 2",
+            "language": "Kannada",
+            "genre": [
+                "Action",
+                "Drama"
+            ],
+            "releaseDate": "2020-10-23",
+            "rank": 9,
+            "paytmMovieCode": "O9UHTU",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Radhe",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Radhe-App-poster-608x800-acfa3169-35a8-4d6e-a417-d3918c600d02.jpg",
+            "movieTitle": "Radhe",
+            "movie_name": "Radhe",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2020-05-22",
+            "rank": 8,
+            "paytmMovieCode": "O9T94M",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Thalaivi",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Thalaivi-with-new-tab-App-poster-608x800-90f89753-0365-4035-bfe1-808549dbaffb.jpg",
+            "movieTitle": "Thalaivi",
+            "movie_name": "Thalaivi",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2020-06-26",
+            "rank": 7,
+            "paytmMovieCode": "O9TM39",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "F9: The Fast Saga",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/F9-608x800-App-poster-608x800-26772546-9ef8-416e-b485-0a2bcdc44efd.jpg",
+            "movieTitle": "F9: The Fast Saga",
+            "movie_name": "F9: The Fast Saga",
+            "language": "English",
+            "genre": [
+                "Action"
+            ],
+            "releaseDate": "2021-04-02",
+            "rank": 6,
+            "paytmMovieCode": "O9VB1G",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Top Gun: Maverick",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Top-Gun--Maverick-App-608x800-f49bbc0e-3be2-423c-9211-5c2405cb2f49.jpg",
+            "movieTitle": "Top Gun: Maverick",
+            "movie_name": "Top Gun: Maverick",
+            "language": "English",
+            "genre": [
+                "Action"
+            ],
+            "releaseDate": "2020-06-26",
+            "rank": 5,
+            "paytmMovieCode": "O9QQJ6",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Wonder Woman 1984",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/ww_app-poster_608x800-179a2f35-3043-4f47-b8fc-ca1160dcefe4.jpg",
+            "movieTitle": "Wonder Woman 1984",
+            "movie_name": "Wonder Woman 1984",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Adventure",
+                "Fantasy"
+            ],
+            "releaseDate": "2020-08-14",
+            "rank": 5,
+            "paytmMovieCode": "O9PTN9",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Black Widow",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Black-Widow-App-poster-608x800-a7230289-a19e-4581-8f81-5ea3373fbc3f.jpg",
+            "movieTitle": "Black Widow",
+            "movie_name": "Black Widow",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Drama"
+            ],
+            "releaseDate": "2020-11-06",
+            "rank": 5,
+            "paytmMovieCode": "O9TUKD",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "No Time To Die",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/No-Time-To-Die-English-App-poster-608x800-eb081ead-e27e-4db1-83be-b6b4a7c2ce68.jpg",
+            "movieTitle": "No Time To Die",
+            "movie_name": "No Time To Die",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Adventure",
+                "Thriller"
+            ],
+            "releaseDate": "2020-11-25",
+            "rank": 5,
+            "paytmMovieCode": "O9S97S",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Shakuntala Devi",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Shakuntala-Devi-tag-App-poster-608x800-6e425057-9597-434b-a050-b6d41c90b366.jpg",
+            "movieTitle": "Shakuntala Devi",
+            "movie_name": "Shakuntala Devi",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2020-05-08",
+            "rank": 1,
+            "paytmMovieCode": "O9VQZR",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Laxmmi Bomb",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Laxmmi-Bomb-APP-608x800-8804a944-88ca-476f-baa5-8467c80206af.jpg",
+            "movieTitle": "Laxmmi Bomb",
+            "movie_name": "Laxmmi Bomb",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2020-05-22",
+            "rank": 1,
+            "paytmMovieCode": "O9RPXN",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Artemis Fowl",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Artemis-Fowl-App-poster-608x800-0217696b-8e91-4c98-bc0e-83938a4384a6.jpg",
+            "movieTitle": "Artemis Fowl",
+            "movie_name": "Artemis Fowl",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Adventure"
+            ],
+            "releaseDate": "2020-05-29",
+            "rank": 1,
+            "paytmMovieCode": "O9NQDI",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Green Knight",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/The-green-knight-with-tag-App-poster-608x800-e84a5b41-03ab-4b05-ba26-6cfc4501937c.jpg",
+            "movieTitle": "Green Knight",
+            "movie_name": "Green Knight",
+            "language": "English",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2020-05-29",
+            "rank": 1,
+            "paytmMovieCode": "O9WA7A",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "My Spy",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/My-Spy-with-tag-App-poster-608x800-ab79989a-c718-4924-96e3-20047cb81fc7.jpg",
+            "movieTitle": "My Spy",
+            "movie_name": "My Spy",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Comedy"
+            ],
+            "releaseDate": "2020-06-01",
+            "rank": 1,
+            "paytmMovieCode": "O9VGE1",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "The Secret Garden",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/The-Secret-Garden-English-App-poster-608x800-59198101-aee3-4525-b4fa-61b1b96ce1a4.jpg",
+            "movieTitle": "The Secret Garden",
+            "movie_name": "The Secret Garden",
+            "language": "English",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2020-06-01",
+            "rank": 1,
+            "paytmMovieCode": "O9VGE2",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Misbehaviour",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Misbehaviour-with-tag-App-poster-608x800-34b924b4-482f-473d-a024-72a13527d3b6.jpg",
+            "movieTitle": "Misbehaviour",
+            "movie_name": "Misbehaviour",
+            "language": "English",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2020-06-01",
+            "rank": 1,
+            "paytmMovieCode": "O9W9G9",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "The Secret: Dare to Dream",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/The-secret-with-tag-App-poster-608x800-8029fb25-10d4-4181-a775-867a7f54e7cc.jpg",
+            "movieTitle": "The Secret: Dare to Dream",
+            "movie_name": "The Secret: Dare to Dream",
+            "language": "English",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2020-06-01",
+            "rank": 1,
+            "paytmMovieCode": "O9W9OH",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "The Personal History of David Copperfield",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/The-Personal-History-of-David-Copperfield-with-tag-App-poster-608x800-c56a6e05-0494-4f3c-bb82-218463aad620.jpg",
+            "movieTitle": "The Personal History of David Copperfield",
+            "movie_name": "The Personal History of David Copperfield",
+            "language": "English",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2020-06-01",
+            "rank": 1,
+            "paytmMovieCode": "O9WA6T",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Chhalaang",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Chhalaang-App-poster-608x800-cb8e38e0-61fc-4824-a098-b92df61de78b.jpg",
+            "movieTitle": "Chhalaang",
+            "movie_name": "Chhalaang",
+            "language": "Hindi",
+            "genre": [
+                "Comedy"
+            ],
+            "releaseDate": "2020-06-12",
+            "rank": 1,
+            "paytmMovieCode": "O9VMPB",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Soul",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Soul-App-poster-608x800-App-poster-608x800-a-3cd77de3-4ece-4d15-874f-0360d093deb7.jpg",
+            "movieTitle": "Soul",
+            "movie_name": "Soul",
+            "language": "English",
+            "genre": [
+                "Animation",
+                "Adventure",
+                "Family"
+            ],
+            "releaseDate": "2020-06-19",
+            "rank": 1,
+            "paytmMovieCode": "O9TBZJ",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Bunty Aur Babli 2",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Bunty-Aur-Babli-2-App-poster-608x800-f63b1342-067a-4084-ad9f-2809ce0ece6f.jpg",
+            "movieTitle": "Bunty Aur Babli 2",
+            "movie_name": "Bunty Aur Babli 2",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2020-06-26",
+            "rank": 1,
+            "paytmMovieCode": "O9VOW2",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Shershaah",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/shershaah_App-poster-608x800-a-806be1e0-62b8-4bd8-893f-b7e27391fe58.jpg",
+            "movieTitle": "Shershaah",
+            "movie_name": "Shershaah",
+            "language": "Hindi",
+            "genre": [
+                "Action",
+                "Biography"
+            ],
+            "releaseDate": "2020-07-03",
+            "rank": 1,
+            "paytmMovieCode": "O9UYL9",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Tenet",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/_Tenet-608x800-a51c65b2-db40-496e-8eb4-dff438f114b6.jpg",
+            "movieTitle": "Tenet",
+            "movie_name": "Tenet",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Thriller"
+            ],
+            "releaseDate": "2020-07-17",
+            "rank": 1,
+            "paytmMovieCode": "O9UC5X",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Jungle Cruise",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Jungle-Cruise-App-poster-608x800-App-poster-608x800-a-1b7a218d-1de6-48a5-ac4d-c9595542b7ce.jpg",
+            "movieTitle": "Jungle Cruise",
+            "movie_name": "Jungle Cruise",
+            "language": "English",
+            "genre": [
+                "Fantasy"
+            ],
+            "releaseDate": "2020-07-24",
+            "rank": 1,
+            "paytmMovieCode": "O9SDJW",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Shamshera",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Shamshera-Hindi-App-Poster-New--8393c67c-469f-4d00-a001-89291f0b41ec.jpg",
+            "movieTitle": "Shamshera",
+            "movie_name": "Shamshera",
+            "language": "Hindi",
+            "genre": [
+                "Action",
+                "Drama"
+            ],
+            "releaseDate": "2020-07-30",
+            "rank": 1,
+            "paytmMovieCode": "O9JDET",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Bhool Bhulaiya 2",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Bhool-Bhulaiyaa-2-e61e50fc-f7bd-48aa-8391-655934d2aa07.jpg",
+            "movieTitle": "Bhool Bhulaiya 2",
+            "movie_name": "Bhool Bhulaiya 2",
+            "language": "Hindi",
+            "genre": [
+                "Horror",
+                "Comedy",
+                "Thriller"
+            ],
+            "releaseDate": "2020-07-31",
+            "rank": 1,
+            "paytmMovieCode": "O9RCCT",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Morbius",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/morbius_APP-608x800-2-App-poster-608x800-ec4fdba9-c52b-4268-9190-9581e9c3596a.jpg",
+            "movieTitle": "Morbius",
+            "movie_name": "Morbius",
+            "language": "English",
+            "genre": [
+                "Action",
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "releaseDate": "2020-07-31",
+            "rank": 1,
+            "paytmMovieCode": "O9UVFH",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Gangubai Kathiawadi",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Gangubai-Kathiawadi-App-poster-608x800-a-239d631b-313e-425c-9da6-e010dea78cd5.jpg",
+            "movieTitle": "Gangubai Kathiawadi",
+            "movie_name": "Gangubai Kathiawadi",
+            "language": "Hindi",
+            "genre": [
+                "Biography",
+                "Drama"
+            ],
+            "releaseDate": "2020-09-11",
+            "rank": 1,
+            "paytmMovieCode": "O9UVPP",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Haseen Dillruba",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Haseen-Dilruba-App-poster-608x800-45da15dc-2b15-4912-966b-d017568bf09e.jpg",
+            "movieTitle": "Haseen Dillruba",
+            "movie_name": "Haseen Dillruba",
+            "language": "Hindi",
+            "genre": [
+                "Thriller"
+            ],
+            "releaseDate": "2020-09-18",
+            "rank": 1,
+            "paytmMovieCode": "O9VOVV",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Rambo",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Rambo-App-poster-608x800-a-09ed2546-85b0-44fa-b91a-654277d90ded.jpg",
+            "movieTitle": "Rambo",
+            "movie_name": "Rambo",
+            "language": "Hindi",
+            "genre": [
+                "Action",
+                "Drama"
+            ],
+            "releaseDate": "2020-10-02",
+            "rank": 1,
+            "paytmMovieCode": "O9IX8P",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Toofan",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Toofan--APP-608x800-3e0505ac-ec0d-4d39-a876-979abd5a0147-de2733d4-d4ec-491f-a908-c51be8fe5c1d.jpg",
+            "movieTitle": "Toofan",
+            "movie_name": "Toofan",
+            "language": "Hindi",
+            "genre": [
+                "Action",
+                "Drama"
+            ],
+            "releaseDate": "2020-10-02",
+            "rank": 1,
+            "paytmMovieCode": "O9S4LO",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Satyameva Jayate 2",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/satyameva-jayate2_app-poster_608x800-58e0433d-c045-4cd9-a08a-62bd527ab782.jpg",
+            "movieTitle": "Satyameva Jayate 2",
+            "movie_name": "Satyameva Jayate 2",
+            "language": "Hindi",
+            "genre": [
+                "Action",
+                "Drama"
+            ],
+            "releaseDate": "2020-10-02",
+            "rank": 1,
+            "paytmMovieCode": "O9S6GC",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "The Big Bull",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/big-bull_app-poster_608x800-0c4e53ae-4762-40bb-bdc9-f8df2bc0717a.jpg",
+            "movieTitle": "The Big Bull",
+            "movie_name": "The Big Bull",
+            "language": "Hindi",
+            "genre": [
+                "Crime",
+                "Drama"
+            ],
+            "releaseDate": "2020-10-23",
+            "rank": 1,
+            "paytmMovieCode": "O9VLXE",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Prithviraj",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Prithviraj--APP-608x800-62b8e4c9-011a-47a8-a472-a234c7a4c116.jpg",
+            "movieTitle": "Prithviraj",
+            "movie_name": "Prithviraj",
+            "language": "Hindi",
+            "genre": [
+                "Action",
+                "Drama"
+            ],
+            "releaseDate": "2020-11-13",
+            "rank": 1,
+            "paytmMovieCode": "O9RQVD",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Maidaan",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/ne-wmaidaan_app-poster_608x800-66f26f27-93f8-404c-a2ca-ab69caa71bfb.jpg",
+            "movieTitle": "Maidaan",
+            "movie_name": "Maidaan",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2020-12-11",
+            "rank": 1,
+            "paytmMovieCode": "O9V7OX",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Laal Singh Chaddha",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Laal-Singh-Chaddha-App-poster-608x800-9be4333f-515d-476d-b4fd-7dcc193e8d7b.jpg",
+            "movieTitle": "Laal Singh Chaddha",
+            "movie_name": "Laal Singh Chaddha",
+            "language": "Hindi",
+            "genre": [
+                "Comedy",
+                "Drama",
+                "Romance"
+            ],
+            "releaseDate": "2020-12-25",
+            "rank": 1,
+            "paytmMovieCode": "O9TKDP",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Mr. Lele",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Mr.-Lele-App-poster-608x800-1283de6e-be97-4838-a726-c5ebb63604f8.jpg",
+            "movieTitle": "Mr. Lele",
+            "movie_name": "Mr. Lele",
+            "language": "Hindi",
+            "genre": [
+                "Comedy"
+            ],
+            "releaseDate": "2021-01-01",
+            "rank": 1,
+            "paytmMovieCode": "O9VOWU",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Bachchan Pandey",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Bachchan-Pandey-APP-608x800-c70c57c1-49bc-4e73-8ad1-8569d71e86d2.jpg",
+            "movieTitle": "Bachchan Pandey",
+            "movie_name": "Bachchan Pandey",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2021-01-22",
+            "rank": 1,
+            "paytmMovieCode": "O9RPXS",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Shabaash Mithu",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Shabaash-Mithu-App-poster-608x800-6a4c91ba-287d-4dda-b5be-ff606083c1ba.jpg",
+            "movieTitle": "Shabaash Mithu",
+            "movie_name": "Shabaash Mithu",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2021-02-05",
+            "rank": 1,
+            "paytmMovieCode": "O9VOW3",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Bell Bottom",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Bell-Bottom-37e8fe5b-5168-4365-a849-7a314a6ed21c.jpg",
+            "movieTitle": "Bell Bottom",
+            "movie_name": "Bell Bottom",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2021-04-02",
+            "rank": 1,
+            "paytmMovieCode": "O9TAJL",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Heropanti 2",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Heropanti2-tagApp-poster-608x800-e151a3f0-d9e6-4a4a-94b8-d2bdbe4f1b96.jpg",
+            "movieTitle": "Heropanti 2",
+            "movie_name": "Heropanti 2",
+            "language": "Hindi",
+            "genre": [
+                "Action"
+            ],
+            "releaseDate": "2021-07-16",
+            "rank": 1,
+            "paytmMovieCode": "O9VZ56",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Takht",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/Takht-App-poster-608x800-245910df-ed89-4323-9d6c-69cfae5a6878.jpg",
+            "movieTitle": "Takht",
+            "movie_name": "Takht",
+            "language": "Hindi",
+            "genre": [
+                "Drama"
+            ],
+            "releaseDate": "2021-12-24",
+            "rank": 1,
+            "paytmMovieCode": "O9KFT4",
+            "isContentAvailable": 0
+        },
+        {
+            "provider_moviename": "Black Adam",
+            "moviePosterUrl": "https://s3-ap-southeast-1.amazonaws.com/assets.paytm.com/images/cinema/black-adam-App-poster-608x800-af8faa75-a107-4d62-9313-04f1b5fab095.jpg",
+            "movieTitle": "Black Adam",
+            "movie_name": "Black Adam",
+            "language": "English",
+            "genre": [
+                "Drama"
+            ],
+            "rank": 1,
+            "paytmMovieCode": "O9TFB7",
+            "isContentAvailable": 0,
+            "releaseDate": null
+        }
+    ],
+    "keys": [
+        "genre",
+        "releaseDate"
+    ],
+    "languageScored": [
+        "Hindi",
+        "English",
+        "Kannada"
+    ]
+}

@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <title>Basic Authentication test page</title>
+  </head>
+  <body bgcolor="white">
+    <p>
+      <a shape="rect" href="..">
+        <img src="/icons/jigsaw" alt="Jigsaw" border="0" width="212" height="49"/>
+      </a>
+      <img align="Right" src="/icons/jigpower.gif" width="94" height="52" alt="Jigsaw Powered !" border="0"/>
+    </p>
+    <p/>
+    <hr/>
+    <p>Your browser made it!
+  </p>
+  </body>
+</html>

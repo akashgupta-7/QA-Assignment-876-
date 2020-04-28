@@ -1,0 +1,6 @@
+{
+    "FaultId": "OPERATION_SUCCESS",
+    "Fault": "Operation completed successfully",
+    "Username:Password": "ToolsQA:TestPassword",
+    "Authentication Type": "Basic"
+}

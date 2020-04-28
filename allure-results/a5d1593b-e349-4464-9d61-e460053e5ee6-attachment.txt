@@ -1,0 +1,4 @@
+{
+    "FaultId": "FAULT_USER_INVALID_USER_PASSWORD",
+    "fault": "Invalid username or password"
+}
